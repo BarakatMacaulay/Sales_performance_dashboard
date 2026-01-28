@@ -45,3 +45,14 @@ This dashboard can be used by finance teams, sales managers, and executives to:
 - Support forecasting and planning decisions  
 - Improve accountability across sales managers  
 - Visualize the performance of each retail chain
+
+---
+
+## 📷 Dashboard Preview
+
+### Main Dashboard
+![Sales Dashboard](screenshots/dashboard.png)
+
+### Interactive Filtering (Slicers)
+![Slicer in Action](screenshots/slicer_in_action.png)
+
