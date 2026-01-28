@@ -22,7 +22,9 @@ This project is an interactive sales performance dashboard built in Microsoft Ex
 - Sparklines for quick trend visualization
 - Geographic map showing sales distribution by state
 - Fully dynamic dashboard updated using Excel’s **Refresh All** feature
-
+  
+### Main Dashboard
+![Sales Dashboard](screenshots/dashboad.png)
 ---
 
 ## 🛠️ Tools Used
@@ -48,10 +50,6 @@ This dashboard can be used by finance teams, sales managers, and executives to:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Main Dashboard
-![Sales Dashboard](screenshots/dashboad.png)
 
 ### Interactive Filtering (Slicers)
 ![Slicer in Action](screenshots/slicer_in_action.png)
