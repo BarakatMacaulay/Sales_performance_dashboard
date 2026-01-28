@@ -51,7 +51,7 @@ This dashboard can be used by finance teams, sales managers, and executives to:
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](screenshots/dashboad.png)
 
 ### Interactive Filtering (Slicers)
 ![Slicer in Action](screenshots/slicer_in_action.png)
